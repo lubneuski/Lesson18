@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<countries>
+    <country>
+        <countryName>Беларусь</countryName>
+        <startyear>1 января 1919</startyear>
+        <type>Возникновения белорусской государственности</type>
+    </country>
+    <country>
+        <countryName>Польша</countryName>
+        <startyear>11 ноября 1918</startyear>
+        <type>Возникновение независимости</type>
+    </country>
+</countries>

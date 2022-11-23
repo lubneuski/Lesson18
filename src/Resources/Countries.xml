@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<countries>
+    <country>
+        <countryName>Польша</countryName>
+        <startyear>1 сентября 1939</startyear>year>
+        <type>Коалиция</type>
+    </country>
+    <country>
+        <countryName>Великобритания</countryName>
+        <startyear>1 сентября 1939</startyear>year>
+        <type>Коалиция</type>
+    </country>
+    <country>
+        <countryName>Дания</countryName>
+        <startyear>9 апреля 1940</startyear>year>
+        <type>Коалиция</type>
+    </country>
+    <country>
+        <countryName>Норвегия</countryName>
+        <startyear>9 апреля 1940</startyear>year>
+        <type>Коалиция</type>
+    </country>
+    <country>
+        <countryName>Бельгия</countryName>
+        <startyear>10 мая 1940</startyear>year>
+        <type>Коалиция</type>
+    </country>
+    <country>
+        <countryName>Нидерланды</countryName>
+        <startyear>10 мая 1940</startyear>year>
+        <type>Коалиция</type>
+    </country>
+    <country>
+        <countryName>Люксембург</countryName>
+        <startyear>10 мая 1940</startyear>year>
+        <type>Коалиция</type>
+    </country>
+    <country>
+        <countryName>CCCP</countryName>
+        <startyear>22 июня 1941</startyear>year>
+        <type>Коалиция</type>
+    </country>
+    <country>
+        <countryName>Югославия</countryName>
+        <startyear>6 апреля 1941</startyear>year>
+        <type>Коалиция</type>
+    </country>
+    <country>
+        <countryName>Греция</countryName>
+        <startyear>28 октября 1940</startyear>year>
+        <type>Коалиция</type>
+    </country>
+    <country>
+        <countryName>Германия</countryName>
+        <startyear>1 сентября 1939</startyear>year>
+        <type>Страна "оси"</type>
+    </country>
+    <country>
+        <countryName>Словакия</countryName>
+        <startyear>1 сентября 1939</startyear>year>
+        <type>Страна "оси"</type>
+    </country>
+    <country>
+        <countryName>Италия</countryName>
+        <startyear>10 июня 1940</startyear>year>
+        <type>Страна "оси"</type>
+    </country>
+    <country>
+        <countryName>Албания</countryName>
+        <startyear>10 июня 1940</startyear>year>
+        <type>Страна "оси"</type>
+    </country>
+    <country>
+        <countryName>Венгрия</countryName>
+        <startyear>11 апреля 1941</startyear>year>
+        <type>Страна "оси"</type>
+    </country>
+    <country>
+        <countryName>Румыния</countryName>
+        <startyear>июнь 1941</startyear>year>
+        <type>Страна "оси"</type>
+    </country>
+    <country>
+        <countryName>Хорватия</countryName>
+        <startyear>июнь 1941</startyear>year>
+        <type>Страна "оси"</type>
+    </country>
+    <country>
+        <countryName>Финляндия</countryName>
+        <startyear>июнь 1941</startyear>year>
+        <type>Страна "оси"</type>
+    </country>
+</countries>
